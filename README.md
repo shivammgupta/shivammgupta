@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Generative AI, Django**
 
-- 📫 How to reach me **inboxshivamgupta@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
